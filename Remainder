@@ -1,0 +1,3 @@
+let divident = 18;
+let divisor = 3;
+console.log(divident % divisor);
