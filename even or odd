@@ -1,0 +1,8 @@
+let divisor = 2;
+let divident = 121423423;
+if (divident % divisor === 0) {
+  console.log("even");
+}
+else {
+  console.log("odd");
+}
